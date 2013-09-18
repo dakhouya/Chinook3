@@ -1,0 +1,5 @@
+.DS_Store
+nbproject/*
+dist/*
+build/*
+Pitch_Frein.X/*

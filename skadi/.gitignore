@@ -1,0 +1,8 @@
+*.sw*
+*.o
+*.a
+*.d
+.DS_Store
+obj
+obj/*
+skadiTest

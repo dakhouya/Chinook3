@@ -1,0 +1,12 @@
+*.o
+*.tmp
+*.bak
+*.swp
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+.DS_Store

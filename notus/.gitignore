@@ -1,0 +1,7 @@
+.DS_Store
+hex files/BTV1/BTV1.X/*
+firmware/Notus.X/*
+firmware/nbproject/*
+firmware/dist/*
+firmware/build/*
+Notus.X/*
